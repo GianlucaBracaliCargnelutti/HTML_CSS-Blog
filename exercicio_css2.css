@@ -1,0 +1,33 @@
+body {
+    margin: 0px 0px 0px 0px;
+}
+
+.post-container {
+    background-color: #fffafa;
+    margin: 0px auto 0px auto;
+    width: 70%;
+}
+
+.post {
+    width: 90%;
+    margin: 0px auto 0px auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.titulo {
+    font-family: Montserrat;
+}
+
+.date {
+    font-family: Roboto;
+    color: #008080;
+}
+
+.artigo {
+    font-family: Open Sans;
+}
+
+.exemplo {
+    
+}
